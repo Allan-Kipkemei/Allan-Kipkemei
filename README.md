@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Allan-Kipkemei
 - 👀 A tech enthusiast champ
 - 🌱 I’m currently learning how to create interactive web-apps 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me allankiplgat@gmail.com 
 
 <!---
