@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Allan-Kipkemei
+- 👋 Hi, I’m  Allan
 - 👀 A tech enthusiast champ
 - 🌱 I’m currently learning how to create interactive web-apps 
-- 📫 How to reach me allankiplgat@gmail.com 
-
-<!---
-Allan-Kipkemei/Allan-Kipkemei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- 📫 How to reach me wayne.state254@gmail.com
+u can click the Preview link to take a look at your changes.
 --->
