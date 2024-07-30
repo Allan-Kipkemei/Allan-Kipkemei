@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alan Kiplagat</h1>
 <h3 align="center">Software Dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=allan-kipkemei&label=Profile%20views&color=0e75b6&style=flat" alt="allan-kipkemei" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allan-kipkemei" alt="allan-kipkemei" /></a> </p>
+Allan Kiplagat := developer{
+    about: about{
+        name: "Allan Kiplagat",
+        role: "Dev",
+    },
+    tech: []string{"Golang", "Python", "Typescript", "Javascript"},
+}
 
-<p align="left"> <a href="https://twitter.com/alusmabel" target="blank"><img src="https://img.shields.io/twitter/follow/alusmabel?logo=twitter&style=for-the-badge" alt="alusmabel" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [allankiplagat.vercel.app](allankiplagat.vercel.app)
 
