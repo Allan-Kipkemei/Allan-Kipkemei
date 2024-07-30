@@ -2,13 +2,17 @@
 <h3 align="center">Software Dev</h3>
 
 
+# Alpha User
+
+```go
 Allan Kiplagat := developer{
     about: about{
         name: "Allan Kiplagat",
-        role: "Dev",
+        role: "Senior Dev",
     },
     tech: []string{"Golang", "Python", "Typescript", "Javascript"},
 }
+
 
 
 - 👨‍💻 All of my projects are available at [allankiplagat.vercel.app](allankiplagat.vercel.app)
