@@ -3,9 +3,9 @@
 Allan Kiplagat := developer{
     about: about{
         name: "Allan Kiplagat",
-        role: "Dev",
+        role: "Software Developer",
     },
-    tech: []string{"Golang", "Python", "Typescript", "Javascript"},
+    tech = {"Golang", "Python", "Javascript"},
 }
 ]
 
