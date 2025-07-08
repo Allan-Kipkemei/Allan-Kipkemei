@@ -1,15 +1,17 @@
 
-```go
-Allan Kiplagat := developer{
-    about: about{
-        name: "Allan Kiplagat",
-        role: "Software Developer",
-    },
-    tech = {"Golang", "Python", "Javascript"},
-}
-]
+---
 
+### 💡 Optional Extras:
+If you want to add a bit of style:
+
+```markdown
+## 🔧 Tech Stack
+- 🐍 Python
+- ⚙️ Golang
+- 🌐 JavaScript
+
+## 🎧 Spotify
 ![Spotify Recently Played](assets/spotify.png)
 
-
-- 📧 allankiplagat@onmail.com
+## 📫 Reach Me
+📧 [allankiplagat@onmail.com](mailto:allankiplagat@onmail.com)
