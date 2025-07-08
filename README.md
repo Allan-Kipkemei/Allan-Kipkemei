@@ -9,7 +9,7 @@ Allan Kiplagat := developer{
 }
 ]
 
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=b2wswmmy8zy3vqmsg445kv0y9)](https://open.spotify.com/user/b2wswmmy8zy3vqmsg445kv0y9)
+![Spotify Recently Played](assets/spotify.png)
 
 
 - 📧 allankiplagat@onmail.com
