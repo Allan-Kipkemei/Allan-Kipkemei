@@ -1,16 +1,9 @@
-
----
-
-### 💡 Optional Extras:
-If you want to add a bit of style:
-
-```markdown
 ## 🔧 Tech Stack
 - 🐍 Python
 - ⚙️ Golang
 - 🌐 JavaScript
 
-## 🎧 Spotify
+## <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="Spotify" width="20"/> Spotify
 ![Spotify Recently Played](assets/spotify.png)
 
 ## 📫 Reach Me
