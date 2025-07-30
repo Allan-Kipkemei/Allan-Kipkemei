@@ -7,9 +7,11 @@
 ## 🔧 Tech Stack
 
 **Languages & Frameworks**
-- 🐍 Python
-- ⚙️ Golang
-- 🌐 JavaScript (Node.js, Express)
+  -  Python
+  - Golang
+  -  JavaScript (Node.js, Express)
+  - solidity
+  - Flutter ( dart)
 
 **Tools & Platforms**
 - 🐳 Docker, Docker Compose  
@@ -48,7 +50,7 @@
 
 ## 📫 Reach Me
 
-- 📧 [allankiplagat@onmail.com](mailto:allankiplagat@onmail.com)
+- 📧 [allankiplagatkipkemei@gmail.com](mailto: allankiplagatkipkemei@gmail.com)
 - 🌐 [LinkedIn](https://linkedin.com/in/YOUR-USERNAME)
 - 💻 [Portfolio Website](https://yourwebsite.com) <!-- optional -->
 
