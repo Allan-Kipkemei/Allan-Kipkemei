@@ -1,6 +1,5 @@
 # 👨‍💻 Allan Kipkemei
 
-![Uploading image.png…]()
 
 
 **Backend Engineer** • **DevOps Enthusiast** • **Problem Solver**
@@ -89,4 +88,5 @@ I'm open to **collaborations**, **internships**, or **freelance** roles in:
 - DevOps & Automation
 
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
 
