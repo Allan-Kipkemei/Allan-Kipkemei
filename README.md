@@ -25,4 +25,5 @@ Rust • LLMs & AI Agents • Security-Focused Backend Development
 
 ## 📫 Contact  
 📧 allankiplagatkipkemei@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/YOUR-USERNAME)
+🔗 [LinkedIn](https://linkedin.com/in/allankiplagat)
+
