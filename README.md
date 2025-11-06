@@ -1,4 +1,4 @@
-# 👨‍💻 Allan Kipkemei  
+# 👨‍💻 Shar Allan  
 **Backend Engineer | DevOps Enthusiast | Problem Solver**  
 
 ---
@@ -23,7 +23,6 @@ Rust • LLMs & AI Agents • Security-Focused Backend Development
 
 ---
 
-## 📫 Contact  
-📧 allankiplagatkipkemei@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/allankiplagat)
+🔗 [LinkedIn](https://www.linkedin.com/in/sharallan)
+
 
