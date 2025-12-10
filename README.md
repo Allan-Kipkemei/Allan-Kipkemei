@@ -1,4 +1,5 @@
-# 👨‍💻 Shar Allan  
+# 👨‍💻 Allan Kip
+
 **Backend Engineer | DevOps Enthusiast | Problem Solver**  
 
 ---
@@ -24,5 +25,6 @@ Rust • LLMs & AI Agents • Security-Focused Backend Development
 ---
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sharallan)
+
 
 
