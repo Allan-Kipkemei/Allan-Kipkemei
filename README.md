@@ -28,7 +28,7 @@ My focus is simple:
 - 🧠 Learning deeply: **Rust, LLM Agents, Advanced System Design**
 - 🔐 Specializing in: **Security-Focused Backend Development**
 - ⚙️ Passionate about: Distributed systems & infrastructure
-- 📫 Reach me: **your@email.com**
+- 📫 Reach me: **alannkipkemei@gmail.com**
 
 <br clear="right"/>
 
@@ -154,3 +154,4 @@ Full-stack inventory & analytics platform.
 ⚡ Building scalable systems from Kenya to the world 🌍
 
 </div>
+
